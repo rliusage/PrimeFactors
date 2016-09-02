@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeFactorCalculator", "PrimeFactorCalculator\PrimeFactorCalculator.csproj", "{B6085CDD-840A-45CD-8C67-AFB63AD602CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeFactorsNunitTests", "PrimeFactorsNunitTests\PrimeFactorsNunitTests.csproj", "{532572C8-1399-41A2-B658-497B39E75155}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6085CDD-840A-45CD-8C67-AFB63AD602CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6085CDD-840A-45CD-8C67-AFB63AD602CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6085CDD-840A-45CD-8C67-AFB63AD602CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6085CDD-840A-45CD-8C67-AFB63AD602CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{532572C8-1399-41A2-B658-497B39E75155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{532572C8-1399-41A2-B658-497B39E75155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{532572C8-1399-41A2-B658-497B39E75155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{532572C8-1399-41A2-B658-497B39E75155}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
